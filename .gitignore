@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Java
 
 *.class
@@ -64,6 +65,8 @@ build/
 ## OS Specific
 .DS_Store
 =======
+=======
+>>>>>>> c54de2c1cea8bc266c48156237dd176e00ebf3d3
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -76,4 +79,7 @@ build/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
+>>>>>>> c54de2c1cea8bc266c48156237dd176e00ebf3d3
+=======
 >>>>>>> c54de2c1cea8bc266c48156237dd176e00ebf3d3
