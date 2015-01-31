@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Java
 
 *.class
@@ -76,6 +77,8 @@ build/
 >>>>>>> github/master
 =======
 >>>>>>> github/master
+=======
+>>>>>>> 0c57f11b4b961dd788f11c3cdfe8b3fade0e6c97
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -92,6 +95,7 @@ hs_err_pid*
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> c54de2c1cea8bc266c48156237dd176e00ebf3d3
 =======
 >>>>>>> c54de2c1cea8bc266c48156237dd176e00ebf3d3
@@ -101,3 +105,5 @@ hs_err_pid*
 >>>>>>> github/master
 =======
 >>>>>>> github/master
+=======
+>>>>>>> 0c57f11b4b961dd788f11c3cdfe8b3fade0e6c97
