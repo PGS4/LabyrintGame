@@ -13,16 +13,16 @@ import com.badlogic.gdx.math.Rectangle;
 
 import sun.rmi.runtime.Log;
 
-public class MyGdxGame extends ApplicationAdapter {
-	SpriteBatch batch;
-	Texture img;
-    private OrthographicCamera camera;
-    private Rectangle bucket;
-    private float accelX;
-    BitmapFont yourBitmapFontName;
-	
-	@Override
-	public void create () {
+        public class MyGdxGame extends ApplicationAdapter {
+            SpriteBatch batch;
+            Texture img;
+            private OrthographicCamera camera;
+            private Rectangle bucket;
+            private float accelX;
+            BitmapFont yourBitmapFontName;
+
+            @Override
+            public void create () {
 
 		batch = new SpriteBatch();
 		img = new Texture(Gdx.files.internal("maincharacter1.png"));
